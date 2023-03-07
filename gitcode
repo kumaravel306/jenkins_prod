@@ -1,0 +1,10 @@
+git branch first_branch
+git branch -a
+git checkout first-branch
+git checkout master
+git merge first-branch
+ git branch -d <branch_name>
+ git ls-tree
+ git revert <commit id>
+ git branch --merged
+ git branch --no-merged
